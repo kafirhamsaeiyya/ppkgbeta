@@ -17,4 +17,4 @@ The package name should be the name of the bash script you want, and the url sho
 
 
 ## Testing
-To test, just clone the repository and run the `.py` using `python3 ppkg.py`. As far as I know, this is Bash-exclusive, though I will try to expand to `dash` soon for Ubuntu.
+To test, just clone the repository and run the `.py` using `python3 ppkg.py (path of JSON file)`. As far as I know, this is Bash-exclusive, though I will try to expand to `dash` soon for Ubuntu.
